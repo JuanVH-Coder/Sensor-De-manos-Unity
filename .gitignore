@@ -1,0 +1,13 @@
+# Unity transient folders
+Temp/
+Obj/
+Build/
+Builds/
+MemoryCaptures/
+
+# Local archives
+Library.zip
+
+# OS/editor noise
+Thumbs.db
+Desktop.ini
