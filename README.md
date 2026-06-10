@@ -36,3 +36,11 @@ Este repositorio incluye las carpetas principales del proyecto:
 ## Nota
 
 Si GitHub no permite subir carpetas pesadas desde la interfaz web, este proyecto debe subirse usando `git push`.
+
+
+
+
+
+https://github.com/user-attachments/assets/8773f318-8696-4cc9-9345-e1990e943a32
+
+
